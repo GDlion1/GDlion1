@@ -1,4 +1,3 @@
-
 <!--
   GDlion1 / PROFILE README
   Art direction: Neo-brutalism × playful geometric fusion
@@ -169,9 +168,11 @@ A responsive web platform for a **2,500+ sq. ft. athletic facility**, combining 
 ## `06` — GITHUB RADAR
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GDlion1&show_icons=true&hide_border=true&bg_color=111111&title_color=FFE17C&text_color=F8F5EA&icon_color=7BF1E5&rank_icon=github" alt="GitHub stats for GDlion1" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDlion1&layout=compact&hide_border=true&bg_color=111111&title_color=FFE17C&text_color=F8F5EA" alt="Most-used languages for GDlion1" />
-  <br />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GDlion1&show_icons=true&hide_border=false&border_color=FFE17C&bg_color=101010&title_color=FFE17C&text_color=F8F5EA&icon_color=7BF1E5&rank_icon=github" alt="GitHub stats for GDlion1" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GDlion1&layout=compact&hide_border=false&border_color=FFE17C&bg_color=101010&title_color=FFE17C&text_color=F8F5EA" alt="Most-used languages for GDlion1" />
+  <br /><br />
+  <img src="https://streak-stats.demolab.com?user=GDlion1&theme=dark&background=101010&border=FFE17C&stroke=FFE17C&ring=FF6258&fire=FFE17C&currStreakNum=7BF1E5&sideNums=FFE17C&currStreakLabel=FFE17C&sideLabels=FFE17C&dates=FFFFFF&border_radius=0" alt="GitHub Streak for GDlion1" />
+  <br /><br />
   <img src="https://komarev.com/ghpvc/?username=GDlion1&label=YOU%20FOUND%20THE%20LAB&color=FFE17C&style=for-the-badge" alt="Profile views" />
 </div>
 

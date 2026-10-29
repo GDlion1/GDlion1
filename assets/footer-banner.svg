@@ -4,8 +4,8 @@
   <defs>
     <pattern id="footerGrid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#ffffff" stroke-opacity=".1" stroke-width="1"/></pattern>
     <style>
-      .title{font-family:Arial,Helvetica,sans-serif;font-weight:900;letter-spacing:-1.7px}
-      .mono{font-family:'Courier New',monospace;font-weight:700;letter-spacing:2px}
+      .title{font-family:system-ui,-apple-system,'Segoe UI',Roboto,Impact,Arial,sans-serif;font-weight:900;letter-spacing:-1.7px}
+      .mono{font-family:'Space Mono','JetBrains Mono','Courier New',monospace;font-weight:700;letter-spacing:2px}
       .wiggle{transform-box:fill-box;transform-origin:center;animation:wiggle 2.7s ease-in-out infinite}
       @keyframes wiggle{0%,100%{transform:rotate(-7deg) translateY(0)}50%{transform:rotate(7deg) translateY(-5px)}}
       @media (prefers-reduced-motion: reduce){.wiggle{animation:none}}
