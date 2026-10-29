@@ -1,151 +1,192 @@
 
 <!--
-PROFILE README — GDlion1
-Visual direction: Neo-brutalist | Signal yellow + ink black
-Before publishing: add the missing repo/demo URLs for V.E.R.A., Public Transport Accessibility, and Smart Power Distribution Simulator if you want each title to link directly to source code.
+  GDlion1 / PROFILE README
+  Art direction: Neo-brutalism × playful geometric fusion
+  Palette: Signal yellow · ink black · electric cyan · punch coral · soft violet
+  Keep README.md and the assets/ folder together in the root of the GDlion1/GDlion1 repository.
 -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=FFE17C&text=GIRIDHARAN%20R&fontSize=52&fontColor=111111&fontAlignY=39&desc=AI%20%2F%20BACKEND%20%2F%20FULL-STACK%20DEVELOPER&descSize=17&descAlignY=67&animation=twinkling" alt="Giridharan R — AI, Backend and Full-Stack Developer" />
+  <img src="./assets/hero-banner.svg" width="100%" alt="Giridharan R — AI, backend and full-stack engineering, built with intent." />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=850&color=FFE17C&background=11111100&center=true&vCenter=true&width=780&lines=Building+AI-powered+systems;Engineering+useful+backend+services;Turning+ideas+into+working+products" alt="Animated developer tagline" />
-  <br /><br />
-  <a href="https://github.com/GDlion1"><img src="https://img.shields.io/badge/GitHub-GDlion1-111111?style=for-the-badge&logo=github&logoColor=FFE17C" alt="GitHub" /></a>
-  <a href="mailto:giridharanraja7@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20connect-FFE17C?style=for-the-badge&logo=gmail&logoColor=111111&labelColor=111111" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-111111?style=for-the-badge&logo=googlemaps&logoColor=FFE17C" alt="Bengaluru, India" />
+  <a href="https://github.com/GDlion1"><img src="https://img.shields.io/badge/GITHUB-GDlion1-111111?style=for-the-badge&logo=github&logoColor=FFE17C" alt="GitHub" /></a>
+  <a href="mailto:giridharanraja7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S%20BUILD-111111?style=for-the-badge&logo=gmail&logoColor=7BF1E5" alt="Email" /></a>
+  <a href="https://www.auraxfitness.in/"><img src="https://img.shields.io/badge/SHIPPED%20PRODUCT-AURA%20X-111111?style=for-the-badge&logo=vercel&logoColor=FF6B6B" alt="AURA X FITNESS" /></a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=19&duration=2300&pause=850&color=FFE17C&center=true&vCenter=true&repeat=true&width=760&height=42&lines=AI+THAT+RETRIEVES%2C+REASONS+%26+ACTS;BACKENDS+THAT+DO+MORE+THAN+RETURN+200;FULL-STACK+PRODUCTS+BUILT+FOR+REAL+PEOPLE;LESS+HYPE.+MORE+WORKING+SYSTEMS." alt="AI engineering, backend systems, full-stack products, working systems" />
+</div>
+
+> **I turn ambitious ideas into usable systems** — from voice-first AI agents and document-grounded answers to real-world web workflows. I work across **Generative AI, backend engineering, and full-stack development**.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>✳ INTELLIGENCE</b><br /><sub>LLMs · RAG · Embeddings · Agents</sub></td>
+      <td align="center"><b>⬢ INFRASTRUCTURE</b><br /><sub>Python · APIs · SQL · Events</sub></td>
+      <td align="center"><b>◈ EXPERIENCES</b><br /><sub>React · Workflows · Deployment</sub></td>
+    </tr>
+  </table>
+  <sub>📍 Bengaluru, India &nbsp;·&nbsp; B.E. Information Science & Engineering, 2026 &nbsp;·&nbsp; Open to early-career opportunities</sub>
 </div>
 
 ---
 
-## `01 / THE BUILDER`
+## `01` — THE MAIN QUEST
 
-I'm an **Information Science Engineering graduate** interested in building at the intersection of **Generative AI, backend engineering, and full-stack development**. I enjoy taking ideas from architecture to implementation—from LLM-powered document workflows and voice-first agents to responsive web platforms and data-driven systems.
+I'm an Information Science & Engineering graduate who enjoys the seam between **AI capability and solid software engineering**. I care about what happens after the demo: data flow, API design, retrieval quality, persistent state, edge cases, and the details that make a product genuinely usable.
 
-- **Currently focused on:** AI application engineering, REST APIs, RAG, and reliable full-stack products.
-- **Engineering mindset:** practical features, clear system boundaries, useful automation, and maintainable code.
-- **Core foundations:** Python, SQL, DSA, OOP, DBMS, API design, and Git-based collaboration.
-- **Open to:** entry-level opportunities in AI engineering, backend development, and full-stack development.
+**My north star:** build intelligent features on top of dependable systems — then give people an interface that makes sense.
 
-> **Build useful things. Make the system work. Keep improving it.**
-
-## `02 / FEATURED BUILDS`
-
-### 01. V.E.R.A. — Voice-Enabled EV Intelligence & Personal AI Agent
-
-**Voice AI · EV intelligence · Contextual memory · Event-driven automation**
-
-A voice-first AI agent concept for EVs, combining LLM-based reasoning, real-time vehicle telemetry, contextual memory, and automated driver assistance.
-
-- Designed persistent and contextual memory features, including people memory, location-triggered reminders, future messages, routine learning, and “Before You Leave” intelligence.
-- Connected Python services through **FastAPI**, **MQTT**, GPS-based triggers, and event-driven logic for vehicle events, charging states, scheduling, geofencing, and actions.
-- **Stack:** Python · FastAPI · Gemini · MQTT · PostgreSQL · WebRTC
-
-### 02. AI-Powered PDF Question Answering & RAG System
-
-**[Repository ↗](https://github.com/GDlion1/RagSys) · [Live demo ↗](https://rag-ai-3enp.onrender.com/)**
-
-A document-grounded question-answering application that retrieves relevant PDF content before generating an answer with an LLM.
-
-- Implemented PDF extraction, text chunking, Gemini embeddings, and **FAISS vector similarity search**.
-- Built FastAPI REST endpoints and a React interface for document uploads and interactive Q&A.
-- Designed the retrieval-and-generation flow to ground responses in uploaded document context.
-- **Stack:** FastAPI · React.js · Gemini API · FAISS · LangChain · PyPDF
-
-### 03. AURA X FITNESS — Commercial Web Platform & Membership Engine
-
-**[Source code ↗](https://github.com/GDlion1/AURAXFITNESS)**
-
-A responsive platform built for a **2,500+ sq. ft. athletic facility**, focused on membership flows and practical digital experiences.
-
-- Built interactive facility previews and a custom visual system with responsive layouts.
-- Developed student verification through Google Apps Script webhooks, including base64 ID-card uploads and discounted membership access.
-- Created a One Day Pass booking flow with UPI QR payments, mobile payment intents, verification-token generation, entry QR check-in, and WhatsApp receipt dispatch.
-- **Stack:** React 19 · Vite · JavaScript · CSS · Schema.org JSON-LD · Google Apps Script · Vercel
+<div align="center">
+  <img src="https://img.shields.io/badge/BUILD%20STYLE-THOUGHTFUL%20SYSTEMS-FFE17C?style=for-the-badge&labelColor=111111" alt="Thoughtful systems" />
+  <img src="https://img.shields.io/badge/DEFAULT%20MODE-LEARN%20%E2%86%92%20BUILD%20%E2%86%92%20SHIP-7BF1E5?style=for-the-badge&labelColor=111111" alt="Learn, build, ship" />
+</div>
 
 ---
 
-### 04. Public Transport Accessibility for People with Motor Disabilities
+## `02` — THE FRONT ROW / TOP 03 BUILDS
 
-**Accessible routing · GTFS analysis · Geospatial data · ML prototype**
+<div align="center"><img src="./assets/project-vera.svg" width="100%" alt="Project 01 — V.E.R.A., voice-first EV intelligence and personal AI agent" /></div>
 
-A project exploring how public-transport data and map networks can help identify accessibility gaps and suggest more suitable routes for people with motor disabilities.
+**Voice-Enabled EV Intelligence & Personal AI Agent**  
+`AGENTIC AI` `REAL-TIME EVENTS` `CONTEXTUAL MEMORY`
 
-- Analyses GTFS stops, routes, and timing data to study transport accessibility.
-- Uses an **LSTM-based approach** to explore stop-level accessibility prediction.
-- Uses OpenStreetMap-based routing with **Dijkstra and A-star** and map visualisation to compare route options.
-- **Stack:** Python · Pandas · GTFS · OSMnx · OpenStreetMap · NetworkX · TensorFlow/Keras · Folium
+A voice-first assistant concept for EV contexts, combining LLM-based reasoning, vehicle telemetry, contextual memory, and event-driven driver assistance.
 
-### 05. Smart Power Distribution Simulator (KSPDB)
+- Designed contextual-memory features for people, future messages, location-triggered reminders, routine learning, and proactive **“Before You Leave”** intelligence.
+- Built an event-driven architecture around **FastAPI**, **MQTT**, GPS triggers, and deterministic Python services for vehicle events, charging states, schedules, geofencing, and automated actions.
+- **Stack:** `Python` `FastAPI` `Gemini` `MQTT` `PostgreSQL` `WebRTC`
 
-**Full-stack simulation · Real-time updates · Data-driven interface**
+<div align="right"><sub>01 / VOICE · CONTEXT · AUTOMATION</sub></div>
 
-A full-stack power-distribution simulation project designed around a web interface and event-driven updates.
+---
 
-- Combines a React frontend with a Node.js backend and PostgreSQL data storage.
-- Uses Socket.IO for real-time communication between application components.
-- Uses Docker as part of the development and deployment toolchain.
-- **Stack:** React · Node.js · PostgreSQL · Socket.IO · Docker
+<div align="center"><img src="./assets/project-rag.svg" width="100%" alt="Project 02 — RAG System, document-grounded question answering" /></div>
 
+**Retrieval-Augmented Generation (RAG) System**  
+[↗ SOURCE CODE](https://github.com/GDlion1/RagSys) · `DOCUMENT AI` `VECTOR SEARCH`
 
-## `03 / TECH STACK`
+A document question-answering app that retrieves relevant PDF content and uses it to produce context-grounded responses.
+
+- Implemented PDF extraction, document chunking, **Gemini embeddings**, and **FAISS vector similarity search**.
+- Connected retrieval results to Gemini-generated answers to keep responses grounded in uploaded document context.
+- Built **FastAPI** REST endpoints and a **React** interface for uploads and interactive Q&A.
+- **Stack:** `FastAPI` `React.js` `Gemini API` `FAISS` `LangChain` `PyPDF`
+
+<div align="right"><sub>02 / INGEST → CHUNK → EMBED → RETRIEVE → ANSWER</sub></div>
+
+---
+
+<div align="center"><img src="./assets/project-aurax.svg" width="100%" alt="Project 03 — AURA X FITNESS commercial web platform and membership engine" /></div>
+
+**Commercial Web Platform & Membership Engine**  
+[↗ SOURCE CODE](https://github.com/GDlion1/AURAXFITNESS) · [↗ LIVE WEBSITE](https://www.auraxfitness.in/) · `PRODUCT ENGINEERING`
+
+A responsive web platform for a **2,500+ sq. ft. athletic facility**, combining a branded user experience with practical membership and entry workflows.
+
+- Built a responsive platform with interactive facility previews and a custom visual design system.
+- Developed student verification using **Google Apps Script webhooks** and base64 ID-card uploads to unlock discounted rates.
+- Engineered a One Day Pass flow with UPI QR payments, mobile payment intents, verification-token generation, entry QR check-in, and WhatsApp receipt dispatch.
+- **Stack:** `React 19` `Vite` `JavaScript` `CSS` `Google Apps Script` `Vercel` `Schema.org JSON-LD`
+
+<div align="right"><sub>03 / INTERFACE · VERIFICATION · AUTOMATION</sub></div>
+
+---
+
+## `03` — SIDE QUESTS / TWO MORE BUILDS
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚌 04 · Public Transport Accessibility</h3>
+      <p><b>Accessible mobility · Geospatial analysis · ML prototype</b></p>
+      <p>Explores accessibility gaps in public transport for people with motor disabilities and investigates more accessible route options.</p>
+      <ul>
+        <li>Analyses GTFS stops, route shapes, and schedules.</li>
+        <li>Explores stop-level accessibility prediction with an LSTM approach.</li>
+        <li>Uses OpenStreetMap networks with Dijkstra/A* routing and interactive map visualisation.</li>
+      </ul>
+      <sub><b>STACK</b> Python · Pandas · GTFS · OSMnx · NetworkX · TensorFlow/Keras · Folium</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ 05 · Smart Power Distribution Simulator</h3>
+      <p><b>Full-stack simulation · Real-time events · Data systems</b></p>
+      <p>A simulator project bringing together a web interface, backend services, persistent data, and real-time application events for a power-distribution workflow.</p>
+      <ul>
+        <li>React interface with a Node.js backend.</li>
+        <li>PostgreSQL for persistent data.</li>
+        <li>Socket.IO for live communication and Docker in the toolchain.</li>
+      </ul>
+      <sub><b>STACK</b> React · Node.js · PostgreSQL · Socket.IO · Docker</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `04` — THE TOOLBOX / SELECTED STACK
 
 <div align="center">
-  <h4>Languages & Web</h4>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,vite,django,fastapi" alt="Python, JavaScript, HTML, CSS, React, Vite, Django and FastAPI" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,vite,django,fastapi,html,css,postgres,mysql,sqlite,docker,git,github,postman,vercel" alt="Selected technologies: Python, JavaScript, React, Vite, Django, FastAPI, HTML, CSS, PostgreSQL, MySQL, SQLite, Docker, Git, GitHub, Postman and Vercel" />
+</div>
+
+| ZONE | TOOLS I HAVE WORKED WITH |
+|:--|:--|
+| **Languages** | Python · SQL · JavaScript (ES6+) |
+| **Backend & APIs** | FastAPI · Django · RESTful APIs · API integration · Authentication & authorization |
+| **Generative AI** | LLM integration · RAG · Prompt engineering · Embeddings · Vector search · Gemini API · LangChain · FAISS |
+| **Frontend** | React.js · HTML5 · CSS3 · Responsive web development |
+| **Data** | PostgreSQL · MySQL · SQLite · Database design · SQL queries |
+| **Tools & delivery** | Git · GitHub · Docker · Vercel · Postman |
+| **CS foundations** | Data Structures & Algorithms · OOP · DBMS · REST API design |
+
+---
+
+## `05` — ORIGIN STORY / EDUCATION
+
+<table>
+  <tr>
+    <td valign="top" width="70%"><b>🎓 B.E. — Information Science & Engineering</b><br />AMC Engineering College, Bengaluru<br /><sub>2022–2026</sub></td>
+    <td valign="top" align="center"><sub>CGPA</sub><br /><h3>7.7 / 10</h3></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>📘 Pre-University Course</b><br />St. Joseph’s Pre-University College<br /><sub>2022</sub></td>
+    <td valign="top" align="center"><sub>PUC</sub><br /><h3>83%</h3></td>
+  </tr>
+</table>
+
+**Certifications & learning**
+
+- `HackerRank` — Python (Basic)
+- `HackerRank` — SQL (Intermediate)
+- `HackerRank` — Problem Solving (Intermediate)
+- `Dhee Coding Lab` — Python Full Stack Development Internship (2026)
+
+---
+
+## `06` — GITHUB RADAR
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GDlion1&show_icons=true&hide_border=true&bg_color=111111&title_color=FFE17C&text_color=F8F5EA&icon_color=7BF1E5&rank_icon=github" alt="GitHub stats for GDlion1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDlion1&layout=compact&hide_border=true&bg_color=111111&title_color=FFE17C&text_color=F8F5EA" alt="Most-used languages for GDlion1" />
   <br />
-  <h4>AI, Data & Infrastructure</h4>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,postman,vercel" alt="PostgreSQL, MySQL, SQLite, Docker, Git, GitHub, Postman and Vercel" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/Generative%20AI-111111?style=flat-square&logo=googlegemini&logoColor=FFE17C" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/RAG%20%7C%20Embeddings-111111?style=flat-square&logo=databricks&logoColor=FFE17C" alt="RAG and embeddings" />
-  <img src="https://img.shields.io/badge/FAISS-111111?style=flat-square&logo=meta&logoColor=FFE17C" alt="FAISS" />
-  <img src="https://img.shields.io/badge/REST%20APIs-111111?style=flat-square&logo=fastapi&logoColor=FFE17C" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=FFE17C" alt="SQL" />
+  <img src="https://komarev.com/ghpvc/?username=GDlion1&label=YOU%20FOUND%20THE%20LAB&color=FFE17C&style=for-the-badge" alt="Profile views" />
 </div>
 
-**Technical toolkit**
-
-- **Programming:** Python, SQL, JavaScript (ES6+)
-- **Backend:** FastAPI, Django, RESTful APIs, API integration, authentication and authorization
-- **AI engineering:** Generative AI, LLM integration, RAG, prompt engineering, embeddings, vector search, Gemini API, LangChain, FAISS
-- **Frontend:** React.js, HTML5, CSS3, responsive web development
-- **Databases:** PostgreSQL, MySQL, SQLite, database design, SQL queries
-- **Tools:** Git, GitHub, Docker, Vercel, Postman
-- **CS fundamentals:** DSA, OOP, DBMS, REST API design
-
-## `04 / EDUCATION & CREDENTIALS`
-
-**B.E. — Information Science and Engineering**  
-AMC Engineering College, Bengaluru · **2022–2026**  
-CGPA: **7.7/10**
-
-**PUC**  
-St. Joseph’s Pre-University College · **2022**  
-Score: **83%**
-
-**Certifications**
-
-- HackerRank — Python (Basic)
-- HackerRank — SQL (Intermediate)
-- HackerRank — Problem Solving (Intermediate)
-- Python Full Stack Development Internship — Dhee Coding Lab (2026)
-
-## `05 / GITHUB SIGNALS`
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GDlion1&show_icons=true&hide_border=true&bg_color=111111&title_color=FFE17C&text_color=F5F5F5&icon_color=FFE17C&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDlion1&layout=compact&hide_border=true&bg_color=111111&title_color=FFE17C&text_color=F5F5F5" alt="Most-used languages" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GDlion1&label=PROFILE%20VIEWS&color=FFE17C&style=flat-square" alt="Profile views" />
-</div>
+<details>
+  <summary><b>🧪 What I care about in a build</b></summary>
+  <br />
+  Useful abstractions over clever noise. Grounded AI answers over confident guesses. APIs that are easy to reason about. Interfaces that help people finish the task. And shipping the whole thing—not just the screenshot.
+</details>
 
 ---
 
 <div align="center">
-  <h3>LET'S BUILD SOMETHING THAT MATTERS.</h3>
-  <a href="mailto:giridharanraja7@gmail.com"><img src="https://img.shields.io/badge/CONTACT%20ME-FFE17C?style=for-the-badge&logo=minutemailer&logoColor=111111" alt="Contact me" /></a>
+  <img src="./assets/footer-banner.svg" width="100%" alt="Make the idea real. Prototype boldly. Ship with intent." />
   <br /><br />
-  <sub>Designed in signal yellow and ink black · Built with curiosity, code, and iteration.</sub>
+  <a href="mailto:giridharanraja7@gmail.com"><img src="https://img.shields.io/badge/LET'S%20TALK-BUILD%20SOMETHING-111111?style=for-the-badge&logo=gmail&logoColor=FFE17C" alt="Contact via email" /></a>
+  <br /><br />
+  <sub><b>MAKE IT WORK. MAKE IT CLEAR. THEN MAKE IT WEIRD.</b></sub>
 </div>
