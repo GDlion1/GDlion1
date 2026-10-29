@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
+  <title id="title">Make the idea real</title>
+  <desc id="desc">A geometric closing banner with bold yellow type, coral and cyan shapes, and hard black borders.</desc>
+  <defs>
+    <pattern id="footerGrid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#ffffff" stroke-opacity=".1" stroke-width="1"/></pattern>
+    <style>
+      .title{font-family:Arial,Helvetica,sans-serif;font-weight:900;letter-spacing:-1.7px}
+      .mono{font-family:'Courier New',monospace;font-weight:700;letter-spacing:2px}
+      .wiggle{transform-box:fill-box;transform-origin:center;animation:wiggle 2.7s ease-in-out infinite}
+      @keyframes wiggle{0%,100%{transform:rotate(-7deg) translateY(0)}50%{transform:rotate(7deg) translateY(-5px)}}
+      @media (prefers-reduced-motion: reduce){.wiggle{animation:none}}
+    </style>
+  </defs>
+  <rect width="1200" height="180" fill="#101010"/>
+  <rect width="1200" height="180" fill="url(#footerGrid)"/>
+  <rect x="15" y="15" width="1170" height="150" fill="none" stroke="#FFE17C" stroke-width="3"/>
+  <rect x="34" y="33" width="8" height="112" fill="#FF6258"/>
+  <text x="64" y="80" fill="#FFE17C" class="title" font-size="43">MAKE THE IDEA REAL.</text>
+  <text x="65" y="119" fill="#FFFFFF" class="mono" font-size="15">PROTOTYPE BOLDLY / ENGINEER WITH INTENT / SHIP USEFUL THINGS</text>
+  <g class="wiggle">
+    <path d="M1030 37L1084 89L1030 141L976 89Z" fill="#7BF1E5" stroke="#101010" stroke-width="5"/>
+    <path d="M1030 58L1043 81L1069 85L1050 103L1055 128L1030 116L1006 128L1011 103L991 85L1017 81Z" fill="#FFE17C" stroke="#101010" stroke-width="3"/>
+  </g>
+  <circle cx="1138" cy="45" r="13" fill="#FF6258" stroke="#101010" stroke-width="4"/>
+  <rect x="1114" y="123" width="28" height="28" fill="#B6A2FF" stroke="#101010" stroke-width="4" transform="rotate(15 1128 137)"/>
+</svg>

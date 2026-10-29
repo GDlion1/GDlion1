@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Giridharan R — The systems playground</title>
+  <desc id="desc">A neo-brutalist banner in yellow, ink black, cyan, coral, and violet with playful geometric forms.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#ffffff" stroke-opacity=".09" stroke-width="1"/></pattern>
+    <style>
+      .ink{font-family:Arial,Helvetica,sans-serif;font-weight:900;letter-spacing:-2px}
+      .mono{font-family:'Courier New',monospace;font-weight:700;letter-spacing:2px}
+      .float{transform-box:fill-box;transform-origin:center;animation:float 3.8s ease-in-out infinite}
+      .spin{transform-box:fill-box;transform-origin:center;animation:spin 14s linear infinite}
+      .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.8s ease-in-out infinite}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+      @keyframes spin{to{transform:rotate(360deg)}}
+      @keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.07)}}
+      @media (prefers-reduced-motion: reduce){.float,.spin,.pulse{animation:none}}
+    </style>
+  </defs>
+  <rect width="1200" height="390" fill="#101010"/>
+  <rect x="0" y="0" width="750" height="390" fill="#FFE17C"/>
+  <path d="M716 0H750V390H716L756 326L716 264L756 202L716 140L756 78Z" fill="#101010"/>
+  <rect width="1200" height="390" fill="url(#grid)"/>
+  <rect x="25" y="24" width="690" height="342" fill="none" stroke="#101010" stroke-width="3"/>
+  <rect x="47" y="43" width="200" height="28" fill="#101010"/>
+  <text x="59" y="62" fill="#FFE17C" class="mono" font-size="12">GDLION1 / BUILD LOG 001</text>
+  <text x="46" y="150" fill="#101010" class="ink" font-size="67">GIRIDHARAN</text>
+  <text x="42" y="253" fill="#101010" class="ink" font-size="123" letter-spacing="-8">R.</text>
+  <path d="M280 188L309 202L280 216L251 202Z" fill="#FF6258" stroke="#101010" stroke-width="3"/>
+  <path d="M308 202H454" stroke="#101010" stroke-width="4" stroke-dasharray="8 8"/>
+  <rect x="47" y="287" width="608" height="51" fill="#101010" stroke="#101010" stroke-width="3"/>
+  <text x="64" y="319" fill="#FFFFFF" class="mono" font-size="17">AI × BACKEND × FULL-STACK</text>
+  <rect x="783" y="25" width="389" height="340" fill="none" stroke="#FFE17C" stroke-width="2" stroke-dasharray="5 7"/>
+  <text x="804" y="56" fill="#FFE17C" class="mono" font-size="12">THE PLAYGROUND</text>
+  <g class="spin" transform="translate(965 178)">
+    <circle r="92" fill="none" stroke="#7BF1E5" stroke-width="2" stroke-dasharray="7 8"/>
+    <circle r="69" fill="none" stroke="#FF6258" stroke-width="2" stroke-dasharray="3 9"/>
+    <path d="M0 -113L19 -37L95 -57L38 0L95 57L19 37L0 113L-19 37L-95 57L-38 0L-95 -57L-19 -37Z" fill="#FFE17C" stroke="#101010" stroke-width="4"/>
+  </g>
+  <g class="pulse">
+    <circle cx="965" cy="178" r="34" fill="#101010" stroke="#101010" stroke-width="4"/>
+    <circle cx="953" cy="170" r="5" fill="#7BF1E5"/>
+    <circle cx="977" cy="170" r="5" fill="#FF6258"/>
+    <path d="M952 190Q965 202 978 190" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g class="float">
+    <rect x="1082" y="84" width="48" height="48" fill="#7BF1E5" stroke="#101010" stroke-width="4" transform="rotate(12 1106 108)"/>
+    <circle cx="825" cy="142" r="20" fill="#FF6258" stroke="#101010" stroke-width="4"/>
+    <path d="M1091 254L1115 296L1067 296Z" fill="#B6A2FF" stroke="#101010" stroke-width="4"/>
+    <rect x="806" y="257" width="28" height="28" fill="#FFE17C" stroke="#101010" stroke-width="4" transform="rotate(45 820 271)"/>
+  </g>
+  <text x="803" y="326" fill="#FFFFFF" class="mono" font-size="13">THINK · ENGINEER · SHIP</text>
+  <rect x="1107" y="25" width="65" height="25" fill="#FF6258" stroke="#101010" stroke-width="3"/>
+  <text x="1119" y="42" fill="#101010" class="mono" font-size="10">LIVE</text>
+</svg>
